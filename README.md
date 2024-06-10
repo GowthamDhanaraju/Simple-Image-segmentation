@@ -2,6 +2,6 @@
 Object oriented perspective to segment an image into foreground and background
 
 # How to run the program
-Open command prompt in the file location \n
-python main.py imagename.jpg --a algorithm \n
-alogithm - pr (push relabel) ,ap (augmenting path)
+Open command prompt in the file location <br />
+python main.py imagename.jpg --a algorithm  <br />
+alogithm - pr (push relabel) ,ap (augmenting path) <br />
